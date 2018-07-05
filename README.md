@@ -1,6 +1,6 @@
 # Hands to Hear:
 Made using React.js and Node.js, complete with basic testing of main components.
-Node.js backend repo found here: [Hands to Hear Github](https://github.com/thinkful-ei19/Alexa-Megan-Spaced-Repetition-App-Server)
+Node.js backend repo found here: [Hands to Hear Github](https://github.com/AlexaScott33/hands-to-hear-server)
 Deployed backend found here: [Deployed Backend](https://alex-megan-spaced-repetition.herokuapp.com/)
 
 ## Table of Contents:
