@@ -21,8 +21,8 @@ As long as the user remains active on the page, their authentication will automa
 
 ### Link to Deployed Version:
 [Hands to Hear](https://hands-to-hear.netlify.com/)
-* Demo Account: 
-    username: Demo 
+* Demo Account: <br />
+    username: Demo <br />
     password: demo1234
 
 ### Screenshots:
