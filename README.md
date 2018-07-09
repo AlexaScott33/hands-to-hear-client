@@ -56,7 +56,7 @@ As long as the user remains active on the page, their authentication will automa
     -Toggle to Instruction Button: src/components/header-bar.js
 
 ### Instructions:
-    -[Clone Server Repo(https://github.com/thinkful-ei19/Alexa-Megan-Spaced-Repetition-App-Server) and follow the README.md instructions
+    -[Clone Server Repo(https://github.com/AlexaScott33/hands-to-hear-server) and follow the README.md instructions
     -Clone/Open this repo
     -run "npm install"
     -**Double Check package.json for the following:**
