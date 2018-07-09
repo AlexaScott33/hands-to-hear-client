@@ -43,3 +43,51 @@
     top: 0;
     left: 0;
   }
+
+
+  .heart-symbol {
+      width: .5rem;
+  }
+
+  .signature {
+      text-decoration: none;
+  }
+
+  @media screen and (min-width: 320px) {
+    .sign-img-one {
+        width: 3rem;
+    }
+
+    .sign-img-two {
+        width: 3rem;
+    }
+
+    .sign-img-three {
+        width: 4rem;
+    }
+
+    .p-font {
+        font-size: 1rem;
+        color: #f0f0f0;
+    }
+
+    .p-font-link {
+        font-size: .8rem;
+        color: #f0f0f0;
+    }
+  }
+
+  @media screen and (min-width: 640px) {
+    .p-font {
+        font-size: 1.3rem;
+    }
+
+    .p-font-link {
+        font-size: 1rem;
+    }
+  }
+
+
+  .link {
+      text-decoration: none;
+  }
